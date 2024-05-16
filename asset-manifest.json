@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DRV111/react-workout-timer/static/css/main.98da1142.css",
+    "main.js": "/DRV111/react-workout-timer/static/js/main.420ec1cc.js",
+    "static/media/ClickSound.m4a": "/DRV111/react-workout-timer/static/media/ClickSound.f7e8f889fedabc8d298c.m4a",
+    "index.html": "/DRV111/react-workout-timer/index.html",
+    "main.98da1142.css.map": "/DRV111/react-workout-timer/static/css/main.98da1142.css.map",
+    "main.420ec1cc.js.map": "/DRV111/react-workout-timer/static/js/main.420ec1cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98da1142.css",
+    "static/js/main.420ec1cc.js"
+  ]
+}
